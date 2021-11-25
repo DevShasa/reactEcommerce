@@ -1,2 +1,2 @@
 # reactEcommerce
-React eCommerce site 
+A simple react ecommerce site that uses react Context for state management
